@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/email/eclipse-workspace/Selenium Jar Files/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/email/eclipse-workspace/Selenium Jar Files/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/email/eclipse-workspace/Selenium Jar Files/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/email/eclipse-workspace/Selenium Jar Files/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/email/eclipse-workspace/Selenium Jar Files/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/email/eclipse-workspace/Selenium Jar Files/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/email/eclipse-workspace/Selenium Jar Files/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/email/eclipse-workspace/Selenium Jar Files/junit-4.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/email/eclipse-workspace/Selenium Jar Files/selenium-java-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/email/eclipse-workspace/Selenium Jar Files/google-api-client-1.30.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/email/eclipse-workspace/GoogleAPIs/google-oauth-client-assembly-1.30.6-1.30.6/google-oauth-java-client/libs/checker-compat-qual-2.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/email/eclipse-workspace/GoogleAPIs/google-oauth-client-assembly-1.30.6-1.30.6/google-oauth-java-client/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/email/eclipse-workspace/GoogleAPIs/google-oauth-client-assembly-1.30.6-1.30.6/google-oauth-java-client/libs/error_prone_annotations-2.3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/email/eclipse-workspace/GoogleAPIs/google-oauth-client-assembly-1.30.6-1.30.6/google-oauth-java-client/libs/failureaccess-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/email/eclipse-workspace/GoogleAPIs/google-oauth-client-assembly-1.30.6-1.30.6/google-oauth-java-client/libs/google-http-client-1.34.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/email/eclipse-workspace/GoogleAPIs/google-oauth-client-assembly-1.30.6-1.30.6/google-oauth-java-client/libs/google-http-client-appengine-1.34.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/email/eclipse-workspace/GoogleAPIs/google-oauth-client-assembly-1.30.6-1.30.6/google-oauth-java-client/libs/google-oauth-client-1.30.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/email/eclipse-workspace/GoogleAPIs/google-oauth-client-assembly-1.30.6-1.30.6/google-oauth-java-client/libs/google-oauth-client-appengine-1.30.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/email/eclipse-workspace/GoogleAPIs/google-oauth-client-assembly-1.30.6-1.30.6/google-oauth-java-client/libs/google-oauth-client-java6-1.30.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/email/eclipse-workspace/GoogleAPIs/google-oauth-client-assembly-1.30.6-1.30.6/google-oauth-java-client/libs/google-oauth-client-jetty-1.30.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/email/eclipse-workspace/GoogleAPIs/google-oauth-client-assembly-1.30.6-1.30.6/google-oauth-java-client/libs/google-oauth-client-servlet-1.30.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/email/eclipse-workspace/GoogleAPIs/google-oauth-client-assembly-1.30.6-1.30.6/google-oauth-java-client/libs/grpc-context-1.22.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/email/eclipse-workspace/GoogleAPIs/google-oauth-client-assembly-1.30.6-1.30.6/google-oauth-java-client/libs/guava-28.2-android.jar"/>
+	<classpathentry kind="lib" path="C:/Users/email/eclipse-workspace/GoogleAPIs/google-oauth-client-assembly-1.30.6-1.30.6/google-oauth-java-client/libs/httpclient-4.5.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/email/eclipse-workspace/GoogleAPIs/google-oauth-client-assembly-1.30.6-1.30.6/google-oauth-java-client/libs/httpcore-4.4.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/email/eclipse-workspace/GoogleAPIs/google-oauth-client-assembly-1.30.6-1.30.6/google-oauth-java-client/libs/j2objc-annotations-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/email/eclipse-workspace/GoogleAPIs/google-oauth-client-assembly-1.30.6-1.30.6/google-oauth-java-client/libs/jdo2-api-2.3-eb.jar"/>
+	<classpathentry kind="lib" path="C:/Users/email/eclipse-workspace/GoogleAPIs/google-oauth-client-assembly-1.30.6-1.30.6/google-oauth-java-client/libs/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/email/eclipse-workspace/GoogleAPIs/google-oauth-client-assembly-1.30.6-1.30.6/google-oauth-java-client/libs/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="C:/Users/email/eclipse-workspace/GoogleAPIs/google-oauth-client-assembly-1.30.6-1.30.6/google-oauth-java-client/libs/opencensus-api-0.24.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/email/eclipse-workspace/GoogleAPIs/google-oauth-client-assembly-1.30.6-1.30.6/google-oauth-java-client/libs/opencensus-contrib-http-util-0.24.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/email/eclipse-workspace/GoogleAPIs/google-oauth-client-assembly-1.30.6-1.30.6/google-oauth-java-client/libs/transaction-api-1.1.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
